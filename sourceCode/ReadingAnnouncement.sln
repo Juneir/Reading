@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadingAnnouncement", "ReadingAnnouncement.csproj", "{529D4D3F-2E3A-4C62-BF06-B4C8327BD214}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Reading", "bin\Reading\Reading.vdproj", "{4BB896B1-5AC5-4320-B132-650E370584B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{529D4D3F-2E3A-4C62-BF06-B4C8327BD214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{529D4D3F-2E3A-4C62-BF06-B4C8327BD214}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{529D4D3F-2E3A-4C62-BF06-B4C8327BD214}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{529D4D3F-2E3A-4C62-BF06-B4C8327BD214}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BB896B1-5AC5-4320-B132-650E370584B3}.Debug|Any CPU.ActiveCfg = Debug
+		{4BB896B1-5AC5-4320-B132-650E370584B3}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {818748DD-5F5D-4F2C-BE92-631FE6B6A671}
+	EndGlobalSection
+EndGlobal

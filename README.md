@@ -11,3 +11,4 @@
 3. 点击“完成”
 4. 软件将生成提示
 ### 本软件使用Visual Studio 2019编译
+### 想要帮助改进？打开ReadingAnnouncement.sln

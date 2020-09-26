@@ -1,2 +1,5 @@
-# Reading
-## Don't install to C:
+# 读书准备
+版权：JUNEIR STUDIO-SCHOOL
+## 使用时的注意事项：
+* 若将此软件安装在C：盘，请使用管理员身份运行。
+* 此软件供学校早晚读时使用。
